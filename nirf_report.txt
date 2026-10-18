@@ -1,0 +1,28 @@
+DCST NIRF REPORT - SAMPLE
+Goa University
+
+IMPORTANT: These are illustrative sample records.
+Verify all information before official use.
+
+STUDENT DETAILS
+101 - Sample Student - MCA - Year 1
+Email: student@example.com
+
+STAFF DETAILS
+Teaching Staff: Sample Teacher - Assistant Professor
+Non-teaching Staff: Sample Staff - Office Assistant
+
+ACADEMIC ACTIVITIES
+ISA (2023-24): Internal assessment - sample
+Midpoint (2024-25): Mid-semester assessment - sample
+SEA (2025-26): Semester-end assessment - sample
+Study Tour (2025-26): Educational visit - sample
+Placement Activities (2025-26): Career guidance - sample
+
+NON-ACADEMIC ACTIVITIES
+InfoFest (2023-24) - Technical festival - sample
+Plateaunia (2024-25) - Cultural event - sample
+Play-on (2025-26) - Sports event - sample
+
+PROGRAM: MCA (verify official offerings)
+SUBJECTS: OOP, OS, Data Science, Internet Technologies, Mathematics
